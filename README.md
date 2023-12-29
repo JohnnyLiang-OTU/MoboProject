@@ -1,5 +1,5 @@
 # Unifood Mobile Application
-Contributors: 
+Contributors: \
 Shian Li Chen \
 Malhar Singh \
 Johnny Liang
