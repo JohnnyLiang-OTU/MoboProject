@@ -1,8 +1,13 @@
-# GroceryPal Mobile App
+# Unifood Mobile Application
+Contributors: 
+Shian Li Chen
+Malhar Singh
+Johnny Liang
 
+*Need to add images. NOTE: INSTALLATION IS NOT POSSIBLE YET, FOR THE MOMENT IT IS ONLY POSSIBLE THROUGH ANDROID STUDIO.
 ## Overview
 
-Welcome to **GroceryPal**, your all-in-one solution for managing your grocery shopping, pantry inventory, and nutritional insights. This mobile application, built using Flutter, is designed to streamline your grocery-related tasks and enhance your shopping experience.
+Welcome to **Unifood**, your all-in-one solution for managing your grocery shopping, pantry inventory, and nutritional insights. This mobile application, built using Flutter, is designed to streamline your grocery-related tasks and enhance your shopping experience.
 
 ## Table of Contents
 
