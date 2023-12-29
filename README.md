@@ -1,7 +1,7 @@
 # Unifood Mobile Application
 Contributors: 
-Shian Li Chen
-Malhar Singh
+Shian Li Chen \
+Malhar Singh \
 Johnny Liang
 
 *Need to add images. NOTE: INSTALLATION IS NOT POSSIBLE YET, FOR THE MOMENT IT IS ONLY POSSIBLE THROUGH ANDROID STUDIO.
