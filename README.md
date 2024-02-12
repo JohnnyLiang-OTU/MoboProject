@@ -8,7 +8,7 @@ NOTE: INSTALLATION IS NOT POSSIBLE YET, FOR THE MOMENT IT IS ONLY POSSIBLE THROU
 ## Overview
 
 Welcome to **Unifood**, your all-in-one solution for managing your grocery shopping, pantry inventory, and nutritional insights. This mobile application, built using Flutter, is designed to streamline your grocery-related tasks and enhance your shopping experience.
-![testing][unifood/assets/flutter.png]
+
 ## Table of Contents
 
 1. [Grocery List](#grocery-list)
@@ -24,15 +24,15 @@ The **Grocery List** page is where you can manage your shopping items efficientl
   - View a list of items for your shopping needs.
   - Add new items by tapping the "+" button, which opens a new tab with an autocomplete feature.
   - Autocomplete suggests items based on your input, and selecting an item displays its image.
-  - Delete selected items with the dedicated button.
-![Pantry](unifood/assets/ShoppingList.jpeg)
-![Pantry_Selected](unifood/assets/ShoppingList_Selected.jpeg)
+  - Delete selected items with the dedicated button.<br>
+<img src="unifood/assets/ShoppingList.jpeg" alt="ShoppingList" width="300">&nbsp;<img src="unifood/assets/ShoppingList_Selected.jpeg" alt="ShoppingList2" width="300">
+
 
 - **Nutritional Summary:**
   - Access a detailed nutritional summary of each item in the list by tapping the corresponding button.
-  - Explore nutritional information through interactive graphs in a carousel fashion.
-![NutritinalSummary](unifood/assets/ShoppingList_Graphs.jpeg)
-![NutritinalSummary2](unifood/assets/ShoppingList_Graphs2.jpeg)
+  - Explore nutritional information through interactive graphs in a carousel fashion.<br>
+<img src="unifood/assets/ShoppingList_Graphs.jpeg" alt="NutritionalSummary" width="300">&nbsp;<img src="unifood/assets/ShoppingList_Graphs2.jpeg" alt="NutritionalSummary2" width="300">
+
 
 - **Complete and Move to Pantry:**
   - Use the floating button to complete your shopping.
@@ -43,10 +43,10 @@ The **Grocery List** page is where you can manage your shopping items efficientl
 
 ## Map
 
-The **Map** page utilizes geolocation to help you locate nearby grocery stores. This feature makes it convenient for you to plan your shopping trips and discover new places.
-Users can also write reviews!
-![Map](unifood/assets/Map.jpeg)
-![MapReviews](unifood/assets/Map_Reviews.jpeg)
+The **Map** page utilizes geolocation to help you locate nearby grocery stores. This feature makes it convenient for you to plan your shopping trips and discover new places.<br>
+Users can also write reviews!<br><br>
+<img src="unifood/assets/Map.jpeg" alt="Map" width="300">&nbsp;<img src="unifood/assets/Map_Reviews.jpeg" alt="Map_review" width="300">
+
 
 
 ## Pantry
@@ -62,8 +62,9 @@ The **Pantry** page is your digital inventory where you can keep track of purcha
 
 - **Cloud Database:**
   - Pantry data is securely stored in the cloud, ensuring synchronization across devices.
+<br>
+<img src="unifood/assets/Pantry.jpeg" alt="Pantry" width="300">
 
-![Pantry](unifood/assets/Pantry.jpeg)
 
 ## User Profile
 
